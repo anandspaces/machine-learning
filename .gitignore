@@ -1,3 +1,5 @@
 .vscode/
+face_recognition_models/
 
 *.jpg
+*.csv
